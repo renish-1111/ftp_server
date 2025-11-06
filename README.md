@@ -15,7 +15,7 @@ Clone the repository (or copy the folder to your machine) and install dependenci
 
 ```powershell
 # clone (replace <repo-url> with your repository URL) or copy files
-git clone https://github.com/renish-1111/ftp_server
+git clone https://github.com/renish-1111/ftp_server.git
 cd ftp_server
 
 python -m pip install -r requirements.txt
